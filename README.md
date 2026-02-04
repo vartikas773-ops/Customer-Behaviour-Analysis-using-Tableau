@@ -47,6 +47,5 @@ Tools Used
 - Tableau Desktop – Dashboard creation and visualization  
 - CSV Dataset – Customer demographics and shopping behavior  
 
-Author  
 Created by Vartika  
 Focused on blending data analytics and visual storytelling to uncover actionable insights.
